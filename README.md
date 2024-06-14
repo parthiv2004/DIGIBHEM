@@ -1,6 +1,7 @@
 # DIGIBHEM
 
 What is Data Science?
+
 Data Science is an interdisciplinary field that uses scientific methods, processes, algorithms, and systems to extract knowledge and insights from structured and unstructured data. It combines principles from statistics, computer science, and domain expertise to analyze and interpret complex data, enabling informed decision-making and predictions.
 
 Key Components:
